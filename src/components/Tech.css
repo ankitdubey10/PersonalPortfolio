@@ -1,0 +1,34 @@
+.Techie {
+    display: flex;
+    list-style-type: none;
+    column-gap: 30px;
+  }
+  button{
+    padding: 10px;
+    cursor: pointer;
+    border: 3px solid blue;
+    border-radius: 15%;
+    color: rgb(110, 4, 160);
+    font-style: italic;
+  }
+  .techcontent{
+    font-size: 30px;
+    font-stretch: expanded;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(32, 9, 136);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(198, 237, 252);
+    padding: 10px;
+    width: 30%;
+    height: 40%;
+    border: 4px solid blue;
+    border-radius: 5%;
+  }
+   .details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+   }
